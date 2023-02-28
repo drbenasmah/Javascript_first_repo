@@ -1,0 +1,10 @@
+let user = "Evans Asmah"
+console.log(user)
+let firstname = "Ben" 
+let lastname = "Asmah" 
+let fullname = firstname + " " + lastname
+console.log(fullname)
+
+let bool = 5>2 
+console.log(bool)
+console.log( typeof bool)
